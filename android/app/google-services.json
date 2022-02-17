@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "204918790929",
+    "firebase_url": "https://arvaus-179df-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "arvaus-179df",
+    "storage_bucket": "arvaus-179df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204918790929:android:f2723ca1e14a2c1aebcab0",
+        "android_client_info": {
+          "package_name": "com.mahanyok.extragame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204918790929-ghhmj980fvovfg9gofkl6kk6ltbgq6jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXfIf1YLAkOGyq1QSEZOG6yK89d8xs5R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204918790929-ghhmj980fvovfg9gofkl6kk6ltbgq6jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204918790929:android:7fc00de1ff302d68ebcab0",
+        "android_client_info": {
+          "package_name": "com.mahanyokdm.arvaus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204918790929-ghhmj980fvovfg9gofkl6kk6ltbgq6jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXfIf1YLAkOGyq1QSEZOG6yK89d8xs5R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204918790929-ghhmj980fvovfg9gofkl6kk6ltbgq6jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
